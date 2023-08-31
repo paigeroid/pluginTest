@@ -1,0 +1,11 @@
+{
+    "name": "pluginTest",
+    "version": "1.0.0",
+    "author": "paigeroid",
+    "description": "a",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/paigeroid/pluginTest.git",
+    },
+    "main": "./index.js"
+}
